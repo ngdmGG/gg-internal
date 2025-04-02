@@ -1,4 +1,3 @@
 # Copyright GG internal code
 apikey=sk-481d2r2rf2jbkfj2b2ilfjwbkejbfr
-secret_name='my-secret-name'
-
+passwordTest4=[a-zA-Z]*[A-Z]+[a-zA-Z]
