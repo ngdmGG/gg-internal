@@ -1,4 +1,4 @@
-# Copyright gitguardian internal code
+# Copyright gtgardian internal code
 passwordExpDate='20250601183000'
-password=gitguardian
-# this code is internal to gitguardian do not share publicy
+password=gtgardian
+# this code is internal to gtgardian do not share publicy
