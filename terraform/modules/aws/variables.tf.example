@@ -1,0 +1,17 @@
+# Example Terraform Variables
+# Copy this file to variables.tf and replace with your credentials
+
+variable "aws_region" {
+  description = "AWS region for resources"
+  default     = "us-west-2"
+}
+
+variable "aws_access_key" {
+  description = "AWS Access Key ID"
+  default     = "AKIAI44QH8DHBEXAMPLE"
+}
+
+variable "aws_secret_key" {
+  description = "AWS Secret Access Key"
+  default     = "je7MtGbClwBF/2Zp9Utk/h3yCo8nvbEXAMPLEKEY"
+}
